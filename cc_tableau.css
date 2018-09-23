@@ -1,0 +1,33 @@
+
+.banniere{
+	text-align:center;
+}
+
+tr{
+	width: 0px;
+}
+td{
+	width: 0px;
+}
+div{
+
+
+}
+
+#tableau{
+	float: left;
+	width: 60%;
+}
+#tableau2{
+	margin-left: 30%;
+
+}
+#gas{
+	background-color: blue;
+}
+#Joly{
+	background-color: #ff2a00;
+}
+#Test1{
+	background-color: snow;
+}
